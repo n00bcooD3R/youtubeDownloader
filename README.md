@@ -1,10 +1,8 @@
 # Youtube Downloader
 
-This is a repository that has sample code for my [Medium Article](https://blog.usejournal.com/how-i-made-my-own-youtube-downloader-using-javascript-and-node-js-160b172f6e10)
+This is a repository that has sample code for his medium Artile [@Moorad](https://blog.usejournal.com/how-i-made-my-own-youtube-downloader-using-javascript-and-node-js-160b172f6e10)
 
 ## Getting Started
-
-If there is any issues please open a new issue.
 
 1. You need to clone this repository
 ```
@@ -36,8 +34,3 @@ or
 nodemon index.js
 ```
 
-## Info
-
-If there is any issues please open a new issue. You are welcome to add pull requests at anytime
-
-Thank you so much for supporting me and thank you for almost 2,000 claps. I really appreciate that. I will try to post more articles and I'm thinking of turning this project from a sample code to an actual functional public website for everyone to use!
